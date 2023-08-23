@@ -1,4 +1,4 @@
-# Article-Spinner
+# Article-Spinner-With-BBC-Dataset
 Article Spinner with BBC News Dataset.
 
 Dataset Link: http://mlg.ucd.ie/datasets/bbc.html
